@@ -1,3 +1,4 @@
+package Question3;
 public class MaximumPoints {
     public static int getMaxPoints(int[] targets) {
         int n = targets.length;

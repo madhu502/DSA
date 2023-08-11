@@ -1,6 +1,7 @@
+package Question1;
 import java.util.Arrays;
 
-public class MinimumCoinsDistribution {
+public class PathaoCoinsDistribution {
     public static int getMinimumCoins(int[] ratings) {
         int n = ratings.length;
 
@@ -36,7 +37,7 @@ public class MinimumCoinsDistribution {
     }
 
     public static void main(String[] args) {
-        // Example input
+        //  input
         int[] ratings = {1, 0, 2};
 
         // Call the function to get the minimum number of coins required

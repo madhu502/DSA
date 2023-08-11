@@ -1,3 +1,4 @@
+package Question1;
 public class MinimumCostClothing {
     public static int getMinimumCost(int N, int[][] price) {
         // Initialize the minimum cost variables for each person
